@@ -1,0 +1,7 @@
+E:\Applications\Encryption\Encryption\bin\Release\Encryption.dll
+E:\Applications\Encryption\Encryption\bin\Release\Encryption.pdb
+E:\Applications\Encryption\Encryption\obj\Release\Encryption.csproj.CoreCompileInputs.cache
+E:\Applications\Encryption\Encryption\obj\Release\Encryption.dll
+E:\Applications\Encryption\Encryption\obj\Release\Encryption.pdb
+E:\Applications\Assembly\Encryption.dll
+E:\Applications\Assembly\Encryption.pdb
