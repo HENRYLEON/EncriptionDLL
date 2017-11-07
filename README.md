@@ -1,0 +1,2 @@
+# EncriptionDLL
+Encriptadro y Desencriptador
